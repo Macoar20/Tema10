@@ -1,4 +1,4 @@
-package ejercicio4_1;
+package ejerciciosFicheros;
 
 import java.io.*;
 import java.util.Arrays;
